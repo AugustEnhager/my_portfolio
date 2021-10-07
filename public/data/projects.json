@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "My First Website",
+    "image": "http://www.4president.us/websites/2000/2000w/gore2000home.gif",
+    "description": "This was my first project. The guy lost, but won the popular vote!"
+  },
+  {
+    "id": 2,
+    "name": "Fizzbuzz",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThujiDqxpMlpFmZLi-Hlewn_0y_UzZ6laisg&usqp=CAU",
+    "description": "Designing user interfaces is fun. I want to learn more about that..."
+  
+  },
+  {
+    "id": 3,
+    "name": "Mobile UX",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcZm78BO2y-Nw8-ALpOiKtQr_fNvVNGsWdQA&usqp=CAU",
+    "description": "I like to design for the mobile platform. The challanges to build UI's for smartphones is challenging but extremely rewarding."
+  
+  }
+]

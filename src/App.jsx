@@ -1,10 +1,10 @@
-import React from "react";
-import Hello from "./Hello";
-import Header from "./Header";
-import Footer from "./Footer";
-import About from "./About";
-import Projects from "./Projects";
-import { Switch, Route } from 'react-router-dom'
+import React from "react"
+import Hello from "./Hello"
+import Header from "./Header"
+import Footer from "./Footer"
+import About from "./About"
+import Projects from "./Projects"
+import { Switch, Route } from "react-router-dom"
 
 const App = () => {
   return (
@@ -18,7 +18,7 @@ const App = () => {
       </Switch>
       <Footer />
     </>
-  );
-};
+  )
+}
 
-export default App;
+export default App
