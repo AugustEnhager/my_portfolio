@@ -1,9 +1,9 @@
 import React from "react"
-import Hello from "./Hello"
-import Header from "./Header"
-import Footer from "./Footer"
-import About from "./About"
-import Projects from "./Projects"
+import Hello from "./component/Hello"
+import Header from "./component/Header"
+import Footer from "./component/Footer"
+import About from "./component/About"
+import Projects from "./component/Projects"
 import { Switch, Route } from "react-router-dom"
 
 const App = () => {
